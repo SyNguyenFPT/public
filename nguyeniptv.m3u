@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:25, NTV HD | TH Ninh Bình
+#EXTINF:25, NTV HD | TH Ninh BÃ¬nh
 http://103.90.220.236/nbtvlive/tv1live.m3u8
 #EXTINF:0,BEAR TV
 #EXTVLCOPT:network-caching=1000
@@ -21,8 +21,9 @@ https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/379/hd.m3u8
 #EXTINF:0, VTV5 | 50fps
 https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#EXTINF:0, VTV5 Tây Nam Bhttps://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
-#EXTINF:0, VTV5 Tây Nguyên
+#EXTINF:0, VTV5 TÃ¢y Nam Bá»™
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
+#EXTINF:0, VTV5 TÃ¢y NguyÃªn
 https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 #EXTINF:0, VTV Chttps://code.vthanhtivi.pw/getlink/mytv/212/hd.m3u8
 #EXTINF:0, VTV7
@@ -31,7 +32,7 @@ https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
 #EXTINF:0, VTV9
 https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
-#EXTINF:0,Bóng https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
+#EXTINF:0,BÃ³ng https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
 #EXTINF:0, ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
